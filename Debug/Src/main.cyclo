@@ -1,0 +1,4 @@
+../Src/main.c:22:5:main	1
+../Src/main.c:48:13:DMA1_Stream6_callback_1	1
+../Src/main.c:60:13:DMA1_Stream6_callback_2	1
+../Src/main.c:69:6:DMA1_Stream6_IRQHandler	3

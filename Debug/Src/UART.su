@@ -1,0 +1,6 @@
+C:/Users/asmae/OneDrive/Bureau/STM32_Projects/Discovery_Board/UART_Driver/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/UART.c:56:6:uart_tx_init	16	static
+../Src/UART.c:75:6:dma1_stream6_init	24	static,ignoring_inline_asm
+../Src/UART.c:157:6:uart_write	16	static
+../Src/UART.c:172:6:GPIO_Init	4	static
+../Src/UART.c:212:7:BaudeRate	16	static
