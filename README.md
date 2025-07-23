@@ -1,6 +1,8 @@
 Bare metal implementation  of UART DMA transmitter Driver for STM32 development board 
 ## Features
-UART2 initialization with configurable  baud rates (4800, 9600 ,115200) and peripheral clock = 8MHz.
+- UART2 initialization with configurable  baud rates (4800, 9600 ,115200) and  peripheral clock = 8MHz.
+- Interrupt Handling
+- DMA data transfer 
 ## Requirements
 ### Hardware
 - Discovery STM32 development board (STM32F411x series)
